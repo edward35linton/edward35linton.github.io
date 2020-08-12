@@ -1,0 +1,12 @@
+.projectsContainer {
+	min-height: calc(100vh - 80px);
+	background-color: #636363;
+	display: flex;
+
+}
+
+.card {
+	width: 18rem;
+	margin: auto;
+	text-align: center;
+}

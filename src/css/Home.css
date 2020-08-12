@@ -1,0 +1,22 @@
+.homeContainer {
+	min-height: calc(100vh - 80px);
+	background-color: #636363;
+	display: flex;
+}
+
+.photo {
+	width: 75%;
+	border-color: #343a40;
+	border: 2px;
+	border-style: solid;
+}
+
+.photoColumn {
+	text-align: center;
+	align-self: center;
+}
+
+.textColumn {
+	color: #f5f5f5;
+	align-self: center;
+}
