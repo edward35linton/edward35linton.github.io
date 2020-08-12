@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a128178.chunk.css",
+    "main.js": "/static/js/main.8fe4176f.chunk.js",
+    "main.js.map": "/static/js/main.8fe4176f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.04c13aa5.chunk.js": "/static/js/2.04c13aa5.chunk.js",
+    "static/js/2.04c13aa5.chunk.js.map": "/static/js/2.04c13aa5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ba0eeb972db7f3625355907c3a113846.js": "/precache-manifest.ba0eeb972db7f3625355907c3a113846.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7a128178.chunk.css.map": "/static/css/main.7a128178.chunk.css.map",
+    "static/js/2.04c13aa5.chunk.js.LICENSE.txt": "/static/js/2.04c13aa5.chunk.js.LICENSE.txt",
+    "static/media/CV.pdf": "/static/media/CV.7f809675.pdf",
+    "static/media/Edward.jpg": "/static/media/Edward.29a37604.jpg",
+    "static/media/Water4Cities.PNG": "/static/media/Water4Cities.0a906651.PNG",
+    "static/media/stardust_images.jpg": "/static/media/stardust_images.ebdecea2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.04c13aa5.chunk.js",
+    "static/css/main.7a128178.chunk.css",
+    "static/js/main.8fe4176f.chunk.js"
+  ]
+}
