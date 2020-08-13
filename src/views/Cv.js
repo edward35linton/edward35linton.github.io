@@ -11,11 +11,20 @@ class Projects extends React.Component {
 	}
 
 	render(){
+		let scale = 1.05
+		let width = window.innerWidth
+
+		if (width < 600) {
+			scale = 0.55
+		}
+
 		return(
 			<Container fluid className="cvContainer">
-				<Document file={CV} className="pdfHolder">
-					<Page pageNumber={1} />
-				</Document>
+				<div className="pdfHolder">
+					<Document file={CV} >
+						<Page scale={scale} pageNumber={1} />
+					</Document>
+				</div>
 			</Container>
 		)
 	}
